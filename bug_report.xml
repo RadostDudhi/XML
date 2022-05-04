@@ -1,0 +1,8 @@
+<Summary>Menu bar:Site menu on mobile doesn't collapse when swiping left</Summary>
+<Description>STR:1.Open the application.2.Open the menu bar.3.Close the menu with a swipe to the left.</Description>
+<Result>The menu bar close with a swipe to the left</Result>
+<Expected result>The menu bar stay open.</Expected result>
+<Reporter>Anastasiia Rudakova</Reporter>
+<Severity>minor</Severity>
+<Priority></Priority>
+<Environment>Android 10; Redmi Note 7 Build/QKQ1.190910.002; Google Chrome 100.0.4896.79</Environment>
